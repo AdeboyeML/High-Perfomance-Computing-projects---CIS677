@@ -35,12 +35,7 @@ The aim of this project is to develop an **MPI-based message-passing application
 The main idea is to write a CUDA-based massively multi-threaded application that when given a set of seeds and a 2-dimensional canvas, computes a discrete approximation of the corresponding Voronoi diagram.
 ----------------------------------------------------------------------------------------------------------------
 
-#### - Voronoi images for different seed sizes (starting from 128, 256, 512 and 1024) for 2D grid size 1024 X 1024
-
-<p float="left">
-  <img src="./voronoi_project/imgs_vor/image_128_1024.png" width="400" height="400">
-  <img src="./voronoi_project/imgs_vor/image_512_1024.png" width="400" height="400">
-</p>
+#### - Voronoi images for different seed sizes (starting from 12and 1024) for 2D grid size 1024 X 1024
 
 <p float="left">
   <img src="./voronoi_project/imgs_vor/image_1024_1024.png" width="400" height="400">
