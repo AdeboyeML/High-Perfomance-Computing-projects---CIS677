@@ -22,8 +22,8 @@ The aim of this project is to develop an **MPI-based message-passing application
 #### - Open MPI Speed Up (~100X):
 
 <p float="left">
-  <img src="./genome_wide_t-test_project/ttest_imgs/ttest_speedup.png" width="500" height="400">
-  <img src="./genome_wide_t-test_project/ttest_imgs/perf_analysis.png" width="500" height="400">
+  <img src="./genome_wide_t-test_project/ttest_imgs/ttest_speedup.png" width="550" height="400">
+  <img src="./genome_wide_t-test_project/ttest_imgs/perf_analysis.png" width="550" height="400">
 </p>
 
 
