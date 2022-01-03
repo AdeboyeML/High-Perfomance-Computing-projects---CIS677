@@ -26,8 +26,12 @@ The aim of this project is to develop an **MPI-based message-passing application
   <img src="./genome_wide_t-test_project/ttest_imgs/perf_analysis.png" width="500" height="400">
 </p>
 
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
 ### GPU-Accelerated computation of Voronoi Diagram
-Overview
+- Overview
 The main idea is to write a CUDA-based massively multi-threaded application that when given a set of seeds and a 2-dimensional canvas, computes a discrete approximation of the corresponding Voronoi diagram.
 ----------------------------------------------------------------------------------------------------------------
 
@@ -36,4 +40,13 @@ The main idea is to write a CUDA-based massively multi-threaded application that
 <p float="left">
   <img src="./voronoi_project/imgs_vor/image_128_1024.png" width="400" height="400">
   <img src="./voronoi_project/imgs_vor/image_512_1024.png" width="400" height="400">
+</p>
+
+<p float="left">
+  <img src="./voronoi_project/imgs_vor/image_1024_1024.png" width="400" height="400">
+  <img src="./voronoi_project/imgs_vor/image_10000_2048.png" width="400" height="400">
+</p>
+
+<p float="left">
+  <img src="./voronoi_project/imgs_vor/img_1024.gif" width="400" height="400">
 </p>
