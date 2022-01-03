@@ -48,6 +48,6 @@ The main idea is to write a CUDA-based massively multi-threaded application that
 
 #### - Performance Analysis
 <p float="left">
-  <img src="./voronoi_project/imgs_vor/perf_analysis.png" width="400" height="400">
-  <img src="./voronoi_project/imgs_vor/perf_analysis2.png" width="400" height="400">
+  <img src="./voronoi_project/imgs_vor/perf_analysis.png" width="550" height="400">
+  <img src="./voronoi_project/imgs_vor/perf_analysis2.png" width="550" height="400">
 </p>
