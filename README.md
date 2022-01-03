@@ -31,11 +31,11 @@ The aim of this project is to develop an **MPI-based message-passing application
 
 
 ### GPU-Accelerated computation of Voronoi Diagram
-- Overview
-The main idea is to write a CUDA-based massively multi-threaded application that when given a set of seeds and a 2-dimensional canvas, computes a discrete approximation of the corresponding Voronoi diagram.
+
+- The main idea is to write a CUDA-based massively multi-threaded application that when given a set of seeds and a 2-dimensional canvas, computes a discrete approximation of the corresponding Voronoi diagram.
 ----------------------------------------------------------------------------------------------------------------
 
-#### - Voronoi images for different seed sizes
+#### - Voronoi images for different seed sizes (1024 & 10,000)
 
 <p float="left">
   <img src="./voronoi_project/imgs_vor/image_1024_1024.png" width="400" height="400">
